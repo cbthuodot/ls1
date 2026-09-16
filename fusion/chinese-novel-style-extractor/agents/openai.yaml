@@ -1,0 +1,3 @@
+interface:
+  display_name: "Chinese Novel Style Extractor"
+  short_description: "Extract reusable Chinese-fiction style bundles with chapter-level stylometry, scene exemplars, and evidence-backed writing rules."
