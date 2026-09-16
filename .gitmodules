@@ -1,0 +1,15 @@
+[submodule "upstreams/stylometric-transfer"]
+	path = upstreams/stylometric-transfer
+	url = https://github.com/ngpepin/stylometric-transfer.git
+[submodule "upstreams/write-like-me"]
+	path = upstreams/write-like-me
+	url = https://github.com/Hiro-Inagawa/write-like-me.git
+[submodule "upstreams/mowen"]
+	path = upstreams/mowen
+	url = https://github.com/jnoecker/mowen.git
+[submodule "upstreams/writing-style-extractor"]
+	path = upstreams/writing-style-extractor
+	url = https://github.com/shannhk/writing-style-extractor.git
+[submodule "baseline/v1-linshi"]
+	path = baseline/v1-linshi
+	url = https://github.com/cbthuodot/linshi.git
